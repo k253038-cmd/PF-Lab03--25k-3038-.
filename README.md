@@ -1,4 +1,4 @@
-# **Iam sadhnas**
+# **I am sadhna**
 1. I am a motivated **Software Engineering** student with *strong skills* in
    * web development
    * programming
